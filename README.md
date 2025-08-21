@@ -37,3 +37,6 @@ pip install -r requirements.txt
 # Copy environment template
 cp .env.template .env
 # Edit .env and add your API key
+# Run tests
+python tests/test_phase1.py
+python scripts/interactive_agent.py
