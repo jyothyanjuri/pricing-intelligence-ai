@@ -22,7 +22,7 @@
 2. Create new API key
 3. Copy key to `.env` file
 
-### Installation (When You Have Your Laptop)
+### Installation 
 ```bash
 git clone https://github.com/YOURUSERNAME/pricing-intelligence-ai.git
 cd pricing-intelligence-ai
